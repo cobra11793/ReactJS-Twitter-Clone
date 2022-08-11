@@ -9,7 +9,7 @@ const Home: NextPage = () => {
   return (
     <div className="lg:max-w-6xl mx-auto max-h-screen overflow-hidden">
       <Head>
-        <title>Twitter 2.0 test</title>
+        <title>Twitter 2.0</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
